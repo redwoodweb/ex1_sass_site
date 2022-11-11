@@ -144,6 +144,9 @@ table {
 }
 
 // kakao map
-.marker-title {
-  color: red;
+#map {
+  margin-top: 50px;
+  .marker-title {
+    color: red;
+  }
 }
